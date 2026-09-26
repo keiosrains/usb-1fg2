@@ -34,7 +34,7 @@ public static void main(String[] args) {
             System.out.println("Amount Due   :   " + twodec.format (amount));
         }
             }
-        else if (product=='B') {
+   else if (product=='B') {
         System.out.print("Quantity      :    ");
         quantity = scanner.nextInt();
         System.out.println("-----------------");
